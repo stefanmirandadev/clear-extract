@@ -1,0 +1,10 @@
+[project]
+name = "clear-extract"
+version = "0.1.0"
+description = "A schema-first Python library for extracting structured records from unstructured documents while making field-level uncertainty, provenance, and decision policy explicit."
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
